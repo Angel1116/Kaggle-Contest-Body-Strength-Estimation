@@ -11,4 +11,5 @@ In this project, I developed a linear regression to estimate one’s grip force 
 - Generates predictions on the validation dataset and evaluates performance using Mean Absolute Percentage Error (MAPE).  
 
 ## Leaderboard
-![image](https://github.com/user-attachments/assets/7e802e97-2b97-4d3c-9cc9-9279129534c3)
+![image](https://github.com/user-attachments/assets/40076f43-a2ed-4aa1-b6c6-4eecff758eab)
+
